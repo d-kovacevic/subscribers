@@ -1,0 +1,154 @@
+<rpc-reply xmlns:junos="http://xml.juniper.net/junos/13.3R9/junos">
+    <subscribers-information xmlns="http://xml.juniper.net/junos/13.3R9/junos-subscribers">
+        <subscriber junos:style="terse">
+            <interface>ge-0/1/0.2</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>default</routing-instance>
+            <ip-address>10.62.2.118</ip-address>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>pp0.1073741826</interface>
+            <user-name>Core-Internet@3p.versatel.nl</user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>default</routing-instance>
+            <ip-address>87.210.169.13</ip-address>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>ge-0/1/0.7</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>MMV</routing-instance>
+            <ip-address>10.127.3.35</ip-address>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>ge-0/1/0.3</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>MMV</routing-instance>
+            <ip-address>10.126.2.118</ip-address>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>ge-0/1/0.4</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>MMV</routing-instance>
+            <ip-address>10.190.2.118</ip-address>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>ge-0/0/5.3</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>MMV</routing-instance>
+            <stacked-vlan-id></stacked-vlan-id>
+            <vlan-id></vlan-id>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>ge-0/0/5.2</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>default</routing-instance>
+            <stacked-vlan-id></stacked-vlan-id>
+            <vlan-id></vlan-id>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>ge-0/0/5.4</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>MMV</routing-instance>
+            <stacked-vlan-id></stacked-vlan-id>
+            <vlan-id></vlan-id>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>ge-0/1/0.3</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>MMV</routing-instance>
+            <ip-address>10.126.2.170</ip-address>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>ge-0/1/0.4</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>MMV</routing-instance>
+            <ip-address>10.190.2.170</ip-address>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>ge-0/1/0.2</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>default</routing-instance>
+            <ip-address>10.62.0.243</ip-address>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>ge-0/1/0.3</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>MMV</routing-instance>
+            <stacked-vlan-id></stacked-vlan-id>
+            <vlan-id></vlan-id>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>ge-0/1/0.4</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>MMV</routing-instance>
+            <stacked-vlan-id></stacked-vlan-id>
+            <vlan-id></vlan-id>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>ge-0/1/0.2</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>default</routing-instance>
+            <stacked-vlan-id></stacked-vlan-id>
+            <vlan-id></vlan-id>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>pp0.1073741841</interface>
+            <user-name>jackbvn@3p.versatel.nl</user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>default</routing-instance>
+            <ip-address>87.210.169.8</ip-address>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>pp0.1073741857</interface>
+            <user-name>VDSL2testuser22@3p.versatel.nl</user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>default</routing-instance>
+            <ip-address>87.210.169.122</ip-address>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>ge-0/1/0.2</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>default</routing-instance>
+            <ip-address>10.62.3.250</ip-address>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>ge-0/1/0.7</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>MMV</routing-instance>
+            <ip-address>10.127.3.250</ip-address>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>ge-0/1/0.8</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>MMV</routing-instance>
+            <ip-address>10.191.3.250</ip-address>
+        </subscriber>
+        <subscriber junos:style="terse">
+            <interface>ge-0/1/1.3</interface>
+            <user-name></user-name>
+            <logical-system>default</logical-system>
+            <routing-instance>MMV</routing-instance>
+            <stacked-vlan-id></stacked-vlan-id>
+            <vlan-id></vlan-id>
+        </subscriber>
+    </subscribers-information>
+    <cli>
+        <banner>{master}</banner>
+    </cli>
+</rpc-reply>
